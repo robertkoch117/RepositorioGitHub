@@ -1,3 +1,8 @@
+/**
+ * @author Robert Koch
+ * Programa, baseado no curso Bradesco
+ */
+
 package sistema;
 
 import javax.swing.JFrame;
